@@ -1,0 +1,7 @@
+/node_modules/
+public/*
+tailwind-base
+tailwind-base/*
+
+.DS_Store
+package-lock.json
